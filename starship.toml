@@ -51,6 +51,7 @@ disabled = false # Disabled by default
 [os.symbols]
 Windows = ""
 Ubuntu = ""
+Amazon = ""
 
 [directory]
 style = "bg:#DA627D"
