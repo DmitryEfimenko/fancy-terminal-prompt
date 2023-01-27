@@ -8,7 +8,13 @@ Steps from [this video](https://youtu.be/AK2JE2YsKto).
 2. Extract archive
 3. Select all font files > Right click > Install for all users
 
-## Step 2: Setup Starship on Windows
+## Step 2: Configure Windows Terminal to use installed font
+1. Open Terminal settings > Defaults > Appearance
+2. Under Text > Font face - select the installed Nerd Mono font
+3. [Optional] Adjust Color scheme. (I selected "One Half Dark")
+4. [Optional] Adjust Transparency. (I selected 80% and enabled Acrylic material)
+
+## Step 3: Setup Starship on Windows
 
 1. Install following [Instructions](https://starship.rs/guide/#%F0%9F%9A%80-installation) for Windows - (using MSI installer is the easiest)
 2. `code $PROFILE`
@@ -22,7 +28,7 @@ Steps from [this video](https://youtu.be/AK2JE2YsKto).
 5. Paste contents of Startship config file and save
 6. Restart Terminal
 
-## Step 3: Setup Startship on WSL2 Linux
+## Step 4: Setup Startship on WSL2 Linux
 
 1. Install following [Instructions](https://starship.rs/guide/#%F0%9F%9A%80-installation) for Linux
 2. `vim ~/.bashrc`
