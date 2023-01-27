@@ -12,7 +12,7 @@ Steps from [this video](https://youtu.be/AK2JE2YsKto).
 1. Open Terminal settings > Defaults > Appearance
 2. Under Text > Font face - select the installed Nerd Mono font
 3. [Optional] Adjust Color scheme. (I selected "One Half Dark")
-4. [Optional] Adjust Transparency. (I selected 80% and enabled Acrylic material)
+4. [Optional] Adjust Transparency. (I selected 90% and enabled Acrylic material)
 
 ## Step 3: Setup Starship on Windows
 
