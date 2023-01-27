@@ -10,7 +10,7 @@ Steps from [this video](https://youtu.be/AK2JE2YsKto).
 
 ## Step 2: Setup Starship on Windows
 
-1. Install following [Instructions](https://starship.rs/guide/#%F0%9F%9A%80-installation) for Windows
+1. Install following [Instructions](https://starship.rs/guide/#%F0%9F%9A%80-installation) for Windows - (using MSI installer is the easiest)
 2. `code $PROFILE`
 3. Add this at the end:
    ```sh
