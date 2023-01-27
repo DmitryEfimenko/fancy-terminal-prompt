@@ -8,11 +8,19 @@ Steps from [this video](https://youtu.be/AK2JE2YsKto).
 2. Extract archive
 3. Select all font files > Right click > Install for all users
 
-## Step 2: Configure Windows Terminal to use installed font
+## Step 2: Configure Terminals to use installed font
+### Configure Windows Terminal
 1. Open Terminal settings > Defaults > Appearance
 2. Under Text > Font face - select the installed Nerd Mono font
 3. [Optional] Adjust Color scheme. (I selected "One Half Dark")
 4. [Optional] Adjust Transparency. (I selected 90% and enabled Acrylic material)
+
+### Configure VsCode Terminal
+Note: This does not work the best with the font I've tried: JetBrainsMono Nerd Font. Maybe it'd work better with other fonts.
+
+1. Open VsCode settings
+2. Set `"terminal.integrated.fontFamily": "[Name of the Nerd Font]"`
+3. Restart VsCode
 
 ## Step 3: Setup Starship on Windows
 
