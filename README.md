@@ -4,7 +4,7 @@ Settings and steps to enable fancy terminal prompt for Windows Terminal
 Steps from [this video](https://youtu.be/AK2JE2YsKto).
 
 ## Step 1: Install nerd fonts
-1. Download font from [nerdfonts.com](https://www.nerdfonts.com/). For example, RobotoMono Nerd Font
+1. Download font from [nerdfonts.com](https://www.nerdfonts.com/). For example, JetBrainsMono Nerd Font
 2. Extract archive
 3. Select all font files > Right click > Install for all users
 
